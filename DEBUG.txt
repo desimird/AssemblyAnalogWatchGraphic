@@ -1,0 +1,5 @@
+tasm /zi /z circle1.asm
+tasm /zi /z PREKID.asm
+tlink /v /co circle1.obj
+tlink /v /co PREKID.obj
+td circle1

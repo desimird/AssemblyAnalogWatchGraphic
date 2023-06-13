@@ -1,0 +1,4 @@
+tasm circle1.asm
+tasm PREKID.asm
+tlink circle1.obj PREKID.obj
+circle1
